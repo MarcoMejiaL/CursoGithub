@@ -1,0 +1,26 @@
+[33mcommit bbeb8c2e9174db2d1ab698b29f8b17e8e1723653[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Marco Antonio Mejia Lopez <tomatin77@gmail.com>
+Date:   Fri Jun 4 13:16:32 2021 -0500
+
+    se agrego el pipiripao
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 4e5a511a730efa2d03af8a8a44586591d51301cb[m
+Author: Marco Antonio Mejia Lopez <tomatin77@gmail.com>
+Date:   Fri Jun 4 13:15:42 2021 -0500
+
+    se agrego el mamut chiquitito
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 8a7e62bed6d8c125b281e8c912602478d359305d[m
+Author: Marco Antonio Mejia Lopez <tomatin77@gmail.com>
+Date:   Fri Jun 4 13:08:00 2021 -0500
+
+    se creo historia.txt
+
+ historia.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
