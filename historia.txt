@@ -20,3 +20,6 @@ se agrego lo de la llave privada
 
 
 se esta experimentando con una nueva rama
+
+
+se agrego la llave en el otro pc
