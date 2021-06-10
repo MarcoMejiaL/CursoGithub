@@ -14,3 +14,9 @@ se estan agregando cosas dentro de la rama prueba
 se esta modificando otro poco para las pruebas en la rama prueba
 
 se agregaron mas cosas por ejemplo desde la pagina de Github
+
+
+se agrego lo de la llave privada
+
+
+se esta experimentando con una nueva rama
